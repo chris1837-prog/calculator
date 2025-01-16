@@ -6,3 +6,5 @@ def calculate(text_input):
 calculation = input("What do you want to calculate?")
 answer = calculate(calculation)
 print(f"The result is {answer}")
+
+print("ich bin jetzt soweit")
